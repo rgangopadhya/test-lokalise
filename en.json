@@ -1,5 +1,6 @@
 {
   "Action.delete_stop_button": "Delete this changed my life",
   "AddCommentButton.add_a_comment": "Post comment",
-  "AddCommentButton.click_map_to_post_comment": "Click the map to post a comment"
+  "AddCommentButton.click_map_to_post_comment": "Click the map to post a comment",
+  "SomethingSomething.something": "{formattedDistance} {distance, plural, one {mile} other {miles}}"
 }
